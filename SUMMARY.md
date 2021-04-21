@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Data Structure](README.md)
+* [Data Structure](data-structure.md)
 
