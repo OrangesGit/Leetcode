@@ -11,6 +11,6 @@
     * [7. Find Second Maximum Value in an Array](data-structure/array/7.-find-second-maximum-value-in-an-array.md)
     * [8. Right Rotate the Array by One Index](data-structure/array/8.-right-rotate-the-array-by-one-index.md)
     * [9. Re-arrange Positive & Negative Values](data-structure/array/9.-re-arrange-positive-and-negative-values.md)
-    * [Untitled](data-structure/array/untitled-1.md)
+    * [10. Rearrange Sorted Array in Max/Min Form](data-structure/array/untitled-1.md)
     * [End](data-structure/array/untitled.md)
 
