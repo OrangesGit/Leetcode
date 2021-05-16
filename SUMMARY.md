@@ -15,6 +15,8 @@
     * [11.Find the Sum of Maximum Sum Subarray](data-structure/array/11.find-the-sum-of-maximum-sum-subarray.md)
     * [End](data-structure/array/untitled.md)
   * [Linked List](data-structure/linked-list/README.md)
-    * [Untitled](data-structure/linked-list/untitled.md)
+    * [What is Linked List?](data-structure/linked-list/untitled.md)
+    * [1. isEmpty\(\)](data-structure/linked-list/1.-isempty.md)
+    * [3.Insert at End](data-structure/linked-list/3.insert-at-end.md)
     * [End](data-structure/linked-list/end.md)
 
