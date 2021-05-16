@@ -14,5 +14,7 @@
     * [10. Rearrange Sorted Array in Max/Min Form](data-structure/array/untitled-1.md)
     * [11.Find the Sum of Maximum Sum Subarray](data-structure/array/11.find-the-sum-of-maximum-sum-subarray.md)
     * [End](data-structure/array/untitled.md)
-  * [Linked List](data-structure/linked-list.md)
+  * [Linked List](data-structure/linked-list/README.md)
+    * [Untitled](data-structure/linked-list/untitled.md)
+    * [End](data-structure/linked-list/end.md)
 
