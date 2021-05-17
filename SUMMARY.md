@@ -19,5 +19,7 @@
     * [1. isEmpty\(\)](data-structure/linked-list/1.-isempty.md)
     * [3.Insert at End](data-structure/linked-list/3.insert-at-end.md)
     * [4. Insert after](data-structure/linked-list/4.-insert-after.md)
+    * [5. Search in Singly Linked List](data-structure/linked-list/5.-search-in-singly-linked-list.md)
+    * [6. Delete at Head](data-structure/linked-list/6.-delete-at-head.md)
     * [End](data-structure/linked-list/end.md)
 
