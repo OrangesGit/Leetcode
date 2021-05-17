@@ -18,5 +18,6 @@
     * [What is Linked List?](data-structure/linked-list/untitled.md)
     * [1. isEmpty\(\)](data-structure/linked-list/1.-isempty.md)
     * [3.Insert at End](data-structure/linked-list/3.insert-at-end.md)
+    * [4. Insert after](data-structure/linked-list/4.-insert-after.md)
     * [End](data-structure/linked-list/end.md)
 
