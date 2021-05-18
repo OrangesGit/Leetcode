@@ -17,9 +17,11 @@
   * [Linked List](data-structure/linked-list/README.md)
     * [What is Linked List?](data-structure/linked-list/untitled.md)
     * [1. isEmpty\(\)](data-structure/linked-list/1.-isempty.md)
+    * [2. Insert At Head](data-structure/linked-list/2.-insert-at-head.md)
     * [3.Insert at End](data-structure/linked-list/3.insert-at-end.md)
     * [4. Insert after](data-structure/linked-list/4.-insert-after.md)
-    * [5. Search in Singly Linked List](data-structure/linked-list/5.-search-in-singly-linked-list.md)
+    * [5. Search](data-structure/linked-list/5.-search-in-singly-linked-list.md)
     * [6. Delete at Head](data-structure/linked-list/6.-delete-at-head.md)
+    * [7. Delete By Value](data-structure/linked-list/7.-delete-by-value.md)
     * [End](data-structure/linked-list/end.md)
 
