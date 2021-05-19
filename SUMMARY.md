@@ -24,9 +24,8 @@
     * [5. Search](data-structure/linked-list/5.-search-in-singly-linked-list.md)
     * [6. Delete at Head](data-structure/linked-list/6.-delete-at-head.md)
     * [7. Delete By Value](data-structure/linked-list/7.-delete-by-value.md)
-    * [Linked List VS Array](data-structure/linked-list/linked-list-vs-array.md)
-    * [Doubly Linked List](data-structure/linked-list/untitled-1.md)
-    * [1. Find the Length of a Linked List](data-structure/linked-list/1.-find-the-length-of-a-linked-list.md)
-    * [2. Reverse a Linked List](data-structure/linked-list/2.-reverse-a-linked-list.md)
+    * [8. Linked List VS Array](data-structure/linked-list/linked-list-vs-array.md)
+    * [9. Find the Length of a Linked List](data-structure/linked-list/1.-find-the-length-of-a-linked-list.md)
+    * [10. Reverse a Linked List](data-structure/linked-list/2.-reverse-a-linked-list.md)
     * [End](data-structure/linked-list/end.md)
 
