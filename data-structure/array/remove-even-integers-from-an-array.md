@@ -1,4 +1,4 @@
-# Remove Even Integers from an Array
+# 1. Remove Even Integers from an Array
 
 ```java
 class CheckRemoveEven {
@@ -19,6 +19,12 @@ class CheckRemoveEven {
 	}
 }
 ```
+
+## 总结
+
+1. 遍历一遍数组确定有几个偶数
+2. 创建一个数组存储偶数
+3. 将满足条件的数字放入创建的数组
 
 
 

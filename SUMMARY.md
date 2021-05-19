@@ -34,4 +34,5 @@
 
 * [19. Remove Nth Node From End of List](linked-list/19.-remove-nth-node-from-end-of-list.md)
 * [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
+* [23. Merge k Sorted Lists](linked-list/23.-merge-k-sorted-lists.md)
 
