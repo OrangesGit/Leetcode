@@ -25,6 +25,7 @@
     * [6. Delete at Head](data-structure/linked-list/6.-delete-at-head.md)
     * [7. Delete By Value](data-structure/linked-list/7.-delete-by-value.md)
     * [Linked List VS Array](data-structure/linked-list/linked-list-vs-array.md)
-    * [Untitled](data-structure/linked-list/untitled-1.md)
+    * [Doubly Linked List](data-structure/linked-list/untitled-1.md)
+    * [1. Find the Length of a Linked List](data-structure/linked-list/1.-find-the-length-of-a-linked-list.md)
     * [End](data-structure/linked-list/end.md)
 
