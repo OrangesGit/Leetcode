@@ -17,7 +17,6 @@
   * [8. Linked List VS Array](linked-list/linked-list/linked-list-vs-array.md)
   * [9. Find the Length of a Linked List](linked-list/linked-list/1.-find-the-length-of-a-linked-list.md)
   * [10. Reverse a Linked List](linked-list/linked-list/2.-reverse-a-linked-list.md)
-  * [End](linked-list/linked-list/end.md)
 * [Array](linked-list/array/README.md)
   * [1. Remove Even Integers from an Array](linked-list/array/remove-even-integers-from-an-array.md)
   * [2. Merge Two Sorted Arrays](linked-list/array/2.-merge-two-sorted-arrays.md)
@@ -29,7 +28,6 @@
   * [9. Re-arrange Positive & Negative Values](linked-list/array/9.-re-arrange-positive-and-negative-values.md)
   * [10. Rearrange Sorted Array in Max/Min Form](linked-list/array/untitled-1.md)
   * [11.Find the Sum of Maximum Sum Subarray](linked-list/array/11.find-the-sum-of-maximum-sum-subarray.md)
-  * [End](linked-list/array/untitled.md)
 
 ## Leetcode <a id="data-structure-1"></a>
 
