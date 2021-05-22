@@ -37,5 +37,7 @@
 * [24. Swap Nodes in Pairs](data-structure-1/24.-swap-nodes-in-pairs.md)
 * [25. Reverse Nodes in k-Group](data-structure-1/untitled.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
+* [82. Remove Duplicates from Sorted List II](data-structure-1/82.-remove-duplicates-from-sorted-list-ii.md)
+* [83. Remove Duplicates from Sorted List](data-structure-1/83.-remove-duplicates-from-sorted-list.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
