@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Leetcode](README.md)
+* [Welcome](README.md)
 
 ## Data Structure <a id="linked-list"></a>
 
