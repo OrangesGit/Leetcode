@@ -52,3 +52,7 @@ class Solution {
 3. After reverse k nodes, update the **new\_head,** **ktail.next**, **ktail and head**
 4. At last, make **ktail.next = head** to link the rest nodes
 
+$$
+O(N)+O(1)
+$$
+

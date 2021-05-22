@@ -38,5 +38,6 @@
 * [23. Merge k Sorted Lists](data-structure-1/23.-merge-k-sorted-lists.md)
 * [24. Swap Nodes in Pairs](data-structure-1/24.-swap-nodes-in-pairs.md)
 * [25. Reverse Nodes in k-Group](data-structure-1/untitled.md)
+* [61. Rotate List](data-structure-1/61.-rotate-list.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
