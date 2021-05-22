@@ -35,11 +35,8 @@
 
 * [19. Remove Nth Node From End of List](data-structure-1/19.-remove-nth-node-from-end-of-list.md)
 * [21. Merge Two Sorted Lists](data-structure-1/21.-merge-two-sorted-lists.md)
-
----
-
-* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
-* [24. Swap Nodes in Pairs](24.-swap-nodes-in-pairs.md)
-* [206. Reverse Linked List](206.-reverse-linked-list.md)
-* [25. Reverse Nodes in k-Group](untitled.md)
+* [23. Merge k Sorted Lists](data-structure-1/23.-merge-k-sorted-lists.md)
+* [24. Swap Nodes in Pairs](data-structure-1/24.-swap-nodes-in-pairs.md)
+* [25. Reverse Nodes in k-Group](data-structure-1/untitled.md)
+* [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
