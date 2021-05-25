@@ -40,5 +40,6 @@
 * [82. Remove Duplicates from Sorted List II](data-structure-1/82.-remove-duplicates-from-sorted-list-ii.md)
 * [83. Remove Duplicates from Sorted List](data-structure-1/83.-remove-duplicates-from-sorted-list.md)
 * [86. Partition List](data-structure-1/86.-partition-list.md)
+* [92. Reverse Linked List II](data-structure-1/92.-reverse-linked-list-ii.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
