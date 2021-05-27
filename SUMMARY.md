@@ -44,5 +44,6 @@
 * [138. Copy List with Random Pointer](data-structure-1/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](data-structure-1/141.-linked-list-cycle.md)
 * [142. Linked List Cycle II](data-structure-1/142.-linked-list-cycle-ii.md)
+* [143. Reorder List](data-structure-1/143.-reorder-list.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
