@@ -32,6 +32,7 @@
 ## Leetcode <a id="data-structure-1"></a>
 
 * [常见算法的复杂度](data-structure-1/chang-jian-suan-fa-de-fu-za-du.md)
+* [用到递归的题](data-structure-1/yong-dao-di-gui-de-ti.md)
 * [19. Remove Nth Node From End of List](data-structure-1/19.-remove-nth-node-from-end-of-list.md)
 * [21. Merge Two Sorted Lists](data-structure-1/21.-merge-two-sorted-lists.md)
 * [23. Merge k Sorted Lists](data-structure-1/23.-merge-k-sorted-lists.md)
@@ -49,5 +50,6 @@
 * [147. Insertion Sort List](data-structure-1/147.-insertion-sort-list.md)
 * [148. Sort List](data-structure-1/148.-sort-list.md)
 * [160. Intersection of Two Linked Lists](data-structure-1/160.-intersection-of-two-linked-lists.md)
+* [203. Remove Linked List Elements](data-structure-1/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
 
