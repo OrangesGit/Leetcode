@@ -33,6 +33,7 @@
 
 * [常见算法的复杂度](data-structure-1/chang-jian-suan-fa-de-fu-za-du.md)
 * [用到递归的题](data-structure-1/yong-dao-di-gui-de-ti.md)
+* [2. Add Two Numbers](data-structure-1/2.-add-two-numbers.md)
 * [19. Remove Nth Node From End of List](data-structure-1/19.-remove-nth-node-from-end-of-list.md)
 * [21. Merge Two Sorted Lists](data-structure-1/21.-merge-two-sorted-lists.md)
 * [23. Merge k Sorted Lists](data-structure-1/23.-merge-k-sorted-lists.md)
