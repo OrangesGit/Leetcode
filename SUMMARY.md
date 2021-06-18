@@ -46,6 +46,7 @@
 * [26. Remove Duplicates from Sorted Array](data-structure-1/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](data-structure-1/27.-remove-element.md)
 * [31. Next Permutation](data-structure-1/31.-next-permutation.md)
+* [33. Search in Rotated Sorted Array](data-structure-1/33.-search-in-rotated-sorted-array.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
 * [82. Remove Duplicates from Sorted List II](data-structure-1/82.-remove-duplicates-from-sorted-list-ii.md)
 * [83. Remove Duplicates from Sorted List](data-structure-1/83.-remove-duplicates-from-sorted-list.md)
