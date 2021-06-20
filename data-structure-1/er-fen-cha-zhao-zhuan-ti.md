@@ -23,5 +23,7 @@ public static int binarySearch(int[] nums,int target,int left, int right) {
     }
 ```
 
+[教程](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/yi-wen-dai-ni-gao-ding-er-fen-cha-zhao-j-ymwl/)
+
 [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
