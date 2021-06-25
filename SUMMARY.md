@@ -63,6 +63,7 @@
 * [143. Reorder List](data-structure-1/143.-reorder-list.md)
 * [147. Insertion Sort List](data-structure-1/147.-insertion-sort-list.md)
 * [148. Sort List](data-structure-1/148.-sort-list.md)
+* [153. Find Minimum in Rotated Sorted Array](data-structure-1/153.-find-minimum-in-rotated-sorted-array.md)
 * [160. Intersection of Two Linked Lists](data-structure-1/160.-intersection-of-two-linked-lists.md)
 * [203. Remove Linked List Elements](data-structure-1/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
