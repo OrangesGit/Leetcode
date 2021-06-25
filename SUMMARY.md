@@ -33,7 +33,8 @@
 
 * [常见算法的复杂度](data-structure-1/chang-jian-suan-fa-de-fu-za-du.md)
 * [用到递归的题](data-structure-1/yong-dao-di-gui-de-ti.md)
-* [二分查找专题](data-structure-1/er-fen-cha-zhao-zhuan-ti.md)
+* [二分查找专题](data-structure-1/er-fen-cha-zhao-zhuan-ti/README.md)
+  * [二分查找变种](data-structure-1/er-fen-cha-zhao-zhuan-ti/er-fen-cha-zhao-bian-zhong.md)
 * [2. Add Two Numbers](data-structure-1/2.-add-two-numbers.md)
 * [11. Container With Most Water](data-structure-1/11.-container-with-most-water.md)
 * [15. 3Sum](data-structure-1/15.-3sum.md)

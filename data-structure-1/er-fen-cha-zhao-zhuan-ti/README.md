@@ -25,11 +25,13 @@ public static int binarySearch(int[] nums,int target,int left, int right) {
 
 [教程](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/yi-wen-dai-ni-gao-ding-er-fen-cha-zhao-j-ymwl/)
 
-[33.Search in Rotated Sorted Array](33.-search-in-rotated-sorted-array.md)
+[33.Search in Rotated Sorted Array](../33.-search-in-rotated-sorted-array.md)
 
 [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-[35.Search Insert Position\(Basic Binary Search\)](35.-search-insert-position.md)
+[35.Search Insert Position\(Basic Binary Search\)](../35.-search-insert-position.md)
 
-[81.Search in Rotated Sorted Array II](81.-search-in-rotated-sorted-array-ii.md)
+[81.Search in Rotated Sorted Array II](../81.-search-in-rotated-sorted-array-ii.md)
+
+[二分查找的变种](er-fen-cha-zhao-bian-zhong.md)
 
