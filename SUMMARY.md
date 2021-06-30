@@ -74,5 +74,6 @@
 * [234. Palindrome Linked List](data-structure-1/234.-palindrome-linked-list.md)
 * [237. Delete Node in a Linked List](data-structure-1/237.-delete-node-in-a-linked-list.md)
 * [240. Search a 2D Matrix II](data-structure-1/240.-search-a-2d-matrix-ii.md)
+* [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 
