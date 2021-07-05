@@ -29,7 +29,8 @@
   * [10. Rearrange Sorted Array in Max/Min Form](linked-list/array/untitled-1.md)
   * [11.Find the Sum of Maximum Sum Subarray](linked-list/array/11.find-the-sum-of-maximum-sum-subarray.md)
 * [Stack](linked-list/stack.md)
-* [Queue](linked-list/queue.md)
+* [Queue](linked-list/queue/README.md)
+  * [1.Generate Binary Numbers from 1 to n using a Queue](linked-list/queue/1.generate-binary-numbers-from-1-to-n-using-a-queue.md)
 
 ## Leetcode <a id="data-structure-1"></a>
 
