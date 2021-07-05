@@ -31,6 +31,7 @@
 * [Stack](linked-list/stack.md)
 * [Queue](linked-list/queue/README.md)
   * [1.Generate Binary Numbers from 1 to n using a Queue](linked-list/queue/1.generate-binary-numbers-from-1-to-n-using-a-queue.md)
+  * [2.Implement Two Stacks using one Array](linked-list/queue/2.implement-two-stacks-using-one-array.md)
 
 ## Leetcode <a id="data-structure-1"></a>
 
