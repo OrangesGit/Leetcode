@@ -47,6 +47,7 @@
 * [16. 3Sum Closest](data-structure-1/16.-3sum-closest.md)
 * [18. 4Sum](data-structure-1/18.-4sum.md)
 * [19. Remove Nth Node From End of List](data-structure-1/19.-remove-nth-node-from-end-of-list.md)
+* [20. Valid Parentheses](data-structure-1/20.-valid-parentheses.md)
 * [21. Merge Two Sorted Lists](data-structure-1/21.-merge-two-sorted-lists.md)
 * [23. Merge k Sorted Lists](data-structure-1/23.-merge-k-sorted-lists.md)
 * [24. Swap Nodes in Pairs](data-structure-1/24.-swap-nodes-in-pairs.md)
