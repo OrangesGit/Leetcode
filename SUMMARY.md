@@ -69,6 +69,7 @@
 * [142. Linked List Cycle II](data-structure-1/142.-linked-list-cycle-ii.md)
 * [143. Reorder List](data-structure-1/143.-reorder-list.md)
 * [144. Binary Tree Preorder Traversal](data-structure-1/144.-binary-tree-preorder-traversal.md)
+* [145. Binary Tree Postorder Traversal](data-structure-1/145.-binary-tree-postorder-traversal.md)
 * [147. Insertion Sort List](data-structure-1/147.-insertion-sort-list.md)
 * [148. Sort List](data-structure-1/148.-sort-list.md)
 * [153. Find Minimum in Rotated Sorted Array](data-structure-1/153.-find-minimum-in-rotated-sorted-array.md)
