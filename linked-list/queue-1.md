@@ -75,3 +75,17 @@ class MyCircularQueue {
  */
 ```
 
+## Notes
+
+在Java中，并没有 enqueue 和 dequeue，有的是如下操作
+
+[Official Introduction](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#add%28E%29)
+
+| _Methods_ | _Throws exception_ | _Returns special value_ |
+| :--- | :--- | :--- |
+| **Insert** | [`add(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#add%28E%29) | [`offer(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#offer%28E%29) |
+| **Remove** | [`remove()`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#remove%28%29) | [`poll()`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#poll%28%29) |
+| **Examine** | [`element()`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#element%28%29) | [`peek()`](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html#peek%28%29) |
+
+
+
