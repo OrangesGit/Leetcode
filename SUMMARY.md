@@ -28,8 +28,9 @@
   * [9. Re-arrange Positive & Negative Values](linked-list/array/9.-re-arrange-positive-and-negative-values.md)
   * [10. Rearrange Sorted Array in Max/Min Form](linked-list/array/untitled-1.md)
   * [11.Find the Sum of Maximum Sum Subarray](linked-list/array/11.find-the-sum-of-maximum-sum-subarray.md)
-* [Stack](linked-list/stack.md)
-* [Queue](linked-list/queue-1.md)
+* [Stack & Queue](linked-list/stack-and-queue/README.md)
+  * [Queue](linked-list/stack-and-queue/queue-1.md)
+  * [Stack](linked-list/stack-and-queue/stack.md)
 
 ## Leetcode <a id="data-structure-1"></a>
 
