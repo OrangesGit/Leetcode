@@ -31,6 +31,7 @@
 * [Stack & Queue](linked-list/stack-and-queue/README.md)
   * [Queue](linked-list/stack-and-queue/queue-1.md)
   * [Stack](linked-list/stack-and-queue/stack.md)
+  * [Queue & Stack用法](linked-list/stack-and-queue/queue-stack-yong-fa.md)
 
 ## Leetcode <a id="data-structure-1"></a>
 
