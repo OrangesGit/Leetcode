@@ -4,7 +4,7 @@
 
 | Time | No. | Comments |
 | :--- | :--- | :--- |
-| 7/24 | 94.Binary Tree Inorder Traversal |  |
+| 7/23 | 94.Binary Tree Inorder Traversal |  |
 |  | 144. Binary Tree Preorder Traversal |  |
 |  | 145. Binary Tree Postorder Traversal |  |
 
