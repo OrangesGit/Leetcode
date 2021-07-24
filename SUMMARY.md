@@ -67,6 +67,7 @@
 * [92. Reverse Linked List II](data-structure-1/92.-reverse-linked-list-ii.md)
 * [94. Binary Tree Inorder Traversal](data-structure-1/94.-binary-tree-inorder-traversal.md)
 * [100.Same Tree](data-structure-1/100.same-tree.md)
+* [101.Symmetric](data-structure-1/101.symmetric.md)
 * [138. Copy List with Random Pointer](data-structure-1/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](data-structure-1/141.-linked-list-cycle.md)
 * [142. Linked List Cycle II](data-structure-1/142.-linked-list-cycle-ii.md)
