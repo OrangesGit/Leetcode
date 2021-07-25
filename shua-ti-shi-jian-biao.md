@@ -8,7 +8,7 @@
 |  | 144.Binary Tree Preorder Traversal |  |
 |  | 145.Binary Tree Postorder Traversal |  |
 |  | 100.Same Tree |  |
-|  | 101. Symmetric Tree |  |
+|  | 101.Symmetric Tree |  |
 
 {% hint style="info" %}
 前序、中序和后序遍历最简单的是用递归的方法，但是一般面试都会考使用迭代的方法。
@@ -18,7 +18,12 @@
 100和101都用到了递归的方法
 {% endhint %}
 
-
+| Time | No. | Comments |
+| :--- | :--- | :--- |
+| 7/25 | 104.Maximum Depth of Binary Tree |  |
+|  | 100.Balanced Binary Tree |  |
+|  | 110.Balanced Binary Tree |  |
+|  | 111.Minimum Depth of Binary Tree |  |
 
 
 
