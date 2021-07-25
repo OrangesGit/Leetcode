@@ -24,6 +24,7 @@
 |  | 100.Balanced Binary Tree |  |
 |  | 110.Balanced Binary Tree |  |
 |  | 111.Minimum Depth of Binary Tree |  |
+|  | 112.Path Sum |  |
 
 
 

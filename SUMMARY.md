@@ -71,6 +71,7 @@
 * [104.Maximum Depth of Binary Tree](data-structure-1/104.maximum-depth-of-binary-tree.md)
 * [110.Balanced Binary Tree](data-structure-1/110.balanced-binary-tree.md)
 * [111.Minimum Depth of Binary Tree](data-structure-1/111.minimum-depth-of-binary-tree.md)
+* [112.Path Sum](data-structure-1/112.path-sum.md)
 * [138. Copy List with Random Pointer](data-structure-1/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](data-structure-1/141.-linked-list-cycle.md)
 * [142. Linked List Cycle II](data-structure-1/142.-linked-list-cycle-ii.md)
