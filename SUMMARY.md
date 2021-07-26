@@ -92,6 +92,7 @@
 * [235. Lowest Common Ancestor of a Binary Search Tree](data-structure-1/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
 * [237. Delete Node in a Linked List](data-structure-1/237.-delete-node-in-a-linked-list.md)
 * [240. Search a 2D Matrix II](data-structure-1/240.-search-a-2d-matrix-ii.md)
+* [257.Binary Tree Paths](data-structure-1/257.binary-tree-paths.md)
 * [274. H-Index](data-structure-1/274.-h-index.md)
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
