@@ -26,8 +26,10 @@
 |  | 111.Minimum Depth of Binary Tree |  |
 |  | 112.Path Sum |  |
 
-| Time | No. |  |
+| Time | No. | Comments |
 | :--- | :--- | :--- |
 | 7/26 | 226.Invert Binary Tree |  |
-|  |  |  |
+|  | 235.Lowest Common Ancestor of a Binary Search Tree |  |
+
+
 
