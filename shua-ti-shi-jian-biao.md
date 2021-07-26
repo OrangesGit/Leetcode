@@ -31,6 +31,7 @@
 | 7/26 | 226.Invert Binary Tree |  |
 |  | 235.Lowest Common Ancestor of a Binary Search Tree |  |
 |  | 257.Binary Tree Paths |  |
+|  | 98.Validate Binary Search Tree |  |
 
 
 
