@@ -26,5 +26,8 @@
 |  | 111.Minimum Depth of Binary Tree |  |
 |  | 112.Path Sum |  |
 
-
+| Time | No. |  |
+| :--- | :--- | :--- |
+| 7/26 | 226.Invert Binary Tree |  |
+|  |  |  |
 
