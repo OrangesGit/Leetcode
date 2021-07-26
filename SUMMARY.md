@@ -66,6 +66,7 @@
 * [86. Partition List](data-structure-1/86.-partition-list.md)
 * [92. Reverse Linked List II](data-structure-1/92.-reverse-linked-list-ii.md)
 * [94. Binary Tree Inorder Traversal](data-structure-1/94.-binary-tree-inorder-traversal.md)
+* [98. Validate Binary Search Tree](data-structure-1/98.-validate-binary-search-tree.md)
 * [100.Same Tree](data-structure-1/100.same-tree.md)
 * [101.Symmetric](data-structure-1/101.symmetric.md)
 * [104.Maximum Depth of Binary Tree](data-structure-1/104.maximum-depth-of-binary-tree.md)
