@@ -37,5 +37,12 @@
 | Time | No. | Comments |
 | :--- | :--- | :--- |
 | 7/27 | 113. Path Sum II | 和Path Sum要一起看，虽然有点像，但是不一样 |
-|  | 114. Flatten Binary Tree to Linked List | 很简单，只是用到了前序遍历 |
+|  | 114. Flatten Binary Tree to Linked List | 用到了前序遍历 |
+
+| Time | No. | Comments |
+| :--- | :--- | :--- |
+| 7/28 | 116. Populating Next Right Pointers in Each Node | 直接使用bfs |
+|  | 117. Populating Next Right Pointers in Each Node II |  |
+
+
 
