@@ -41,7 +41,7 @@
 
 | Time | No. | Comments |
 | :--- | :--- | :--- |
-| 7/28 | 116. Populating Next Right Pointers in Each Node | 直接使用bfs |
+| 7/28 | 116. Populating Next Right Pointers in Each Node | 利用 next 节点 |
 |  | 117. Populating Next Right Pointers in Each Node II |  |
 
 
