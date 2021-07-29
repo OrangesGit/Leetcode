@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | 7/24 | 94. Binary Tree Inorder Traversal |  |
 |  | 144. Binary Tree Preorder Traversal |  |
-|  | 145. Binary Tree Postorder Traversal |  |
+|  | 145. Binary Tree Postorder Traversal | Iteration要重点记忆 |
 |  | 100. Same Tree |  |
 |  | 101. Symmetric Tree |  |
 
@@ -21,7 +21,6 @@
 | Time | No. | Comments |
 | :--- | :--- | :--- |
 | 7/25 | 104. Maximum Depth of Binary Tree |  |
-|  | 100. Balanced Binary Tree |  |
 |  | 110. Balanced Binary Tree |  |
 |  | 111. Minimum Depth of Binary Tree |  |
 |  | 112. Path Sum |  |
