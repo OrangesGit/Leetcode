@@ -30,7 +30,7 @@
 | 7/26 | 226. Invert Binary Tree |  |
 |  | 235. Lowest Common Ancestor of a Binary Search Tree |  |
 |  | 257. Binary Tree Paths |  |
-|  | 98. Validate Binary Search Tree |  |
+|  | 98. Validate Binary Search Tree | \*\*\*很重要 |
 |  | 99. Recover Binary Search Tree | 需要复习 |
 
 | Time | No. | Comments |
