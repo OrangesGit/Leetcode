@@ -41,7 +41,8 @@
 | Time | No. | Comments |
 | :--- | :--- | :--- |
 | 7/28 | 116. Populating Next Right Pointers in Each Node | 利用 next 节点 |
-|  | 117. Populating Next Right Pointers in Each Node II |  |
 
-
+| Time | No. | Comments |
+| :--- | :--- | :--- |
+| 7/30 | 117. Populating Next Right Pointers in Each Node II | 利用next节点 |
 
