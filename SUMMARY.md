@@ -110,4 +110,5 @@
 ## SQL
 
 * [175. Combine Two Tables](sql/175.-combine-two-tables.md)
+* [176. Second Highest Salary](sql/176.-second-highest-salary.md)
 
