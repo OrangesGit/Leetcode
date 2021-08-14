@@ -113,4 +113,6 @@
 * [176. Second Highest Salary](sql/176.-second-highest-salary.md)
 * [181. Employees Earning More Than Their Managers](sql/181.-employees-earning-more-than-their-managers.md)
 * [182. Duplicate Emails](sql/182.-duplicate-emails.md)
+* [183. Customers Who Never Order](sql/183.-customers-who-never-order.md)
+* [196. Delete Duplicate Emails](sql/196.-delete-duplicate-emails.md)
 
