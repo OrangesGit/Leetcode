@@ -116,5 +116,6 @@
 * [183. Customers Who Never Order](sql/183.-customers-who-never-order.md)
 * [196. Delete Duplicate Emails](sql/196.-delete-duplicate-emails.md)
 * [197. Rising Temperature](sql/197.-rising-temperature.md)
+* [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
 
