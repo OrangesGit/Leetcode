@@ -111,6 +111,7 @@
 
 * [175. Combine Two Tables](sql/175.-combine-two-tables.md)
 * [176. Second Highest Salary](sql/176.-second-highest-salary.md)
+* [177. Nth Highest Salary](sql/177.-nth-highest-salary.md)
 * [181. Employees Earning More Than Their Managers](sql/181.-employees-earning-more-than-their-managers.md)
 * [182. Duplicate Emails](sql/182.-duplicate-emails.md)
 * [183. Customers Who Never Order](sql/183.-customers-who-never-order.md)
