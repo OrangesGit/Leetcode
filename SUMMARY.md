@@ -123,5 +123,6 @@
 * [197. Rising Temperature](sql/197.-rising-temperature.md)
 * [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
+* [1661. Average Time of Process per Machine](sql/1661.-average-time-of-process-per-machine.md)
 * [1777. Product's Price for Each Store](sql/1777.-products-price-for-each-store.md)
 
