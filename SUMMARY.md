@@ -64,7 +64,7 @@
 * [82. Remove Duplicates from Sorted List II](data-structure-1/82.-remove-duplicates-from-sorted-list-ii.md)
 * [83. Remove Duplicates from Sorted List](data-structure-1/83.-remove-duplicates-from-sorted-list.md)
 * [86. Partition List](data-structure-1/86.-partition-list.md)
-* [92. Reverse Linked List II](data-structure-1/92.-reverse-linked-list-ii.md)
+* [92. Reverse Linked List II \*\*\*](data-structure-1/92.-reverse-linked-list-ii.md)
 * [94. Binary Tree Inorder Traversal](data-structure-1/94.-binary-tree-inorder-traversal.md)
 * [98. Validate Binary Search Tree](data-structure-1/98.-validate-binary-search-tree.md)
 * [99.Recover Binary Search Tree](data-structure-1/99.recover-binary-search-tree.md)
