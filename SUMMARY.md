@@ -121,6 +121,7 @@
 * [185. Department Top Three Salaries](sql/185.-department-top-three-salaries.md)
 * [196. Delete Duplicate Emails](sql/196.-delete-duplicate-emails.md)
 * [197. Rising Temperature](sql/197.-rising-temperature.md)
+* [209. Minimum Size Subarray Sum](sql/209.-minimum-size-subarray-sum.md)
 * [283. Move Zeroes](sql/283.-move-zeroes.md)
 * [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
