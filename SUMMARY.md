@@ -60,6 +60,7 @@
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
 * [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
+* [76. Minimum Window Substring](data-structure-1/76.-minimum-window-substring.md)
 * [81. Search in Rotated Sorted Array II](data-structure-1/81.-search-in-rotated-sorted-array-ii.md)
 * [82. Remove Duplicates from Sorted List II](data-structure-1/82.-remove-duplicates-from-sorted-list-ii.md)
 * [83. Remove Duplicates from Sorted List](data-structure-1/83.-remove-duplicates-from-sorted-list.md)
