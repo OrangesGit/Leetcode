@@ -57,6 +57,7 @@
 * [33. Search in Rotated Sorted Array](data-structure-1/33.-search-in-rotated-sorted-array.md)
 * [34. Find First and Last Position of Element in Sorted Array](data-structure-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](data-structure-1/35.-search-insert-position.md)
+* [59. Spiral Matrix II](data-structure-1/59.-spiral-matrix-ii.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
 * [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
