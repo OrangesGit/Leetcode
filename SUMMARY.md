@@ -134,3 +134,7 @@
 * [1661. Average Time of Process per Machine](sql/1661.-average-time-of-process-per-machine.md)
 * [1777. Product's Price for Each Store](sql/1777.-products-price-for-each-store.md)
 
+## Basic Data Structure
+
+* [Linked List](basic-data-structure/linked-list.md)
+
