@@ -1,6 +1,6 @@
 # Linked List
 
-
+## Basic ListNode
 
 ```java
 public class ListNode {
@@ -15,6 +15,12 @@ public class ListNode {
         this.next = next;
     }
 }
+
+```
+
+## Linked ListNode
+
+```java
 
 ```
 
