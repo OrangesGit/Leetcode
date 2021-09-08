@@ -141,4 +141,5 @@
 
 * [Linked List](basic-data-structure/linked-list.md)
 * [HashSet](basic-data-structure/hashset.md)
+* [HashMap](basic-data-structure/hashmap.md)
 
