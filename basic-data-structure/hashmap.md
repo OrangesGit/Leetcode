@@ -1,76 +1,77 @@
 # HashMap
 
 ```java
-class Pair<U, V> {
-  public U first;
-  public V second;
-
-  public Pair(U first, V second) {
-    this.first = first;
-    this.second = second;
-  }
+class Pair<U, V>{
+    public U key;
+    public V val;
+    public Pair(U key, V val){
+        this.key = key;
+        this.val = val;
+    }
 }
 class Bucket{
-    private List<Pair<Integer, Integer>> bucket;
+    public List<Pair<Integer, Integer>> container;
     public Bucket(){
-        bucket = new LinkedList<>();
+        this.container = new LinkedList<>();
     }
     public Integer get(Integer key){
-        for(Pair<Integer, Integer> pair : this.bucket){
-            if(pair.first.equals(key))
-                return pair.second;
+        for(Pair<Integer, Integer> pair : container){
+            if(pair.key.equals(key)){
+                return pair.val;
+            }
         }
         return -1;
     }
     public void update(Integer key, Integer val){
         boolean found = false;
-        for(Pair<Integer, Integer> pair : this.bucket){
-            if(pair.first.equals(key)){
-                pair.second = val;
+        for(Pair<Integer, Integer> pair : container){
+            if(pair.key.equals(key)){
+                pair.val = val;
                 found = true;
+                break;
             }
         }
         if(!found){
-            this.bucket.add(new Pair<Integer, Integer>(key, val));
+            container.add(new Pair<Integer, Integer>(key, val));
         }
     }
     public void remove(Integer key){
-        for(Pair<Integer, Integer> pair : this.bucket){
-            if(pair.first.equals(key)){
-                this.bucket.remove(pair);
+        for(Pair<Integer, Integer> pair : container){
+            if(pair.key.equals(key)){
+                container.remove(pair);
                 break;
             }
         }
     }
 }
-
 class MyHashMap {
-    public List<Bucket> hash_table;
+    public List<Bucket> hash_map;
     public final int base;
 
     /** Initialize your data structure here. */
     public MyHashMap() {
         base = 857;
-        hash_table = new ArrayList<>();
-        for(int i = 0; i < base; i++) hash_table.add(new Bucket());
+        hash_map = new ArrayList<>();
+        for(int i = 0; i < base; i++) 
+            hash_map.add(new Bucket());
     }
     
     /** value will always be non-negative. */
     public void put(int key, int value) {
         int hash_index = key % base;
-        this.hash_table.get(hash_index).update(key, value);
+        this.hash_map.get(hash_index).update(key, value);
     }
     
     /** Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key */
     public int get(int key) {
         int hash_index = key % base;
-        return this.hash_table.get(hash_index).get(key);
+        return this.hash_map.get(hash_index).get(key);
     }
     
     /** Removes the mapping of the specified value key if this map contains a mapping for the key */
     public void remove(int key) {
         int hash_index = key % base;
-        this.hash_table.get(hash_index).remove(key);
+        this.hash_map.get(hash_index).remove(key);
     }
 }
 
@@ -82,4 +83,6 @@ class MyHashMap {
  * obj.remove(key);
  */
 ```
+
+
 
