@@ -105,6 +105,7 @@
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
+* [706. Design HashMap](data-structure-1/706.-design-hashmap.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 
 ---
