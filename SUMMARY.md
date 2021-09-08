@@ -130,6 +130,7 @@
 * [283. Move Zeroes](sql/283.-move-zeroes.md)
 * [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
+* [705. Design HashSet](sql/705.-design-hashset.md)
 * [707. Design Linked List](sql/707.-design-linked-list.md)
 * [844. Backspace String Compare](sql/844.-backspace-string-compare.md)
 * [977. Squares of a Sorted Array](sql/977.-squares-of-a-sorted-array.md)
