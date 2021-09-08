@@ -105,7 +105,9 @@
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
+* [705. Design HashSet](data-structure-1/705.-design-hashset.md)
 * [706. Design HashMap](data-structure-1/706.-design-hashmap.md)
+* [707. Design Linked List](data-structure-1/707.-design-linked-list.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 
 ---
@@ -130,8 +132,6 @@
 * [283. Move Zeroes](sql/283.-move-zeroes.md)
 * [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
-* [705. Design HashSet](sql/705.-design-hashset.md)
-* [707. Design Linked List](sql/707.-design-linked-list.md)
 * [844. Backspace String Compare](sql/844.-backspace-string-compare.md)
 * [977. Squares of a Sorted Array](sql/977.-squares-of-a-sorted-array.md)
 * [1661. Average Time of Process per Machine](sql/1661.-average-time-of-process-per-machine.md)
