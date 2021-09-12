@@ -42,6 +42,7 @@
 * [Stack/Queue专题](data-structure-1/stackqueue-zhuan-ti.md)
 * [2. Add Two Numbers](data-structure-1/2.-add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](data-structure-1/3.-longest-substring-without-repeating-characters.md)
+* [6. ZigZag Conversion](data-structure-1/6.-zigzag-conversion.md)
 * [11. Container With Most Water](data-structure-1/11.-container-with-most-water.md)
 * [15. 3Sum](data-structure-1/15.-3sum.md)
 * [16. 3Sum Closest](data-structure-1/16.-3sum-closest.md)
