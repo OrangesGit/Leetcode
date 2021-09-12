@@ -43,6 +43,7 @@
 * [2. Add Two Numbers](data-structure-1/2.-add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](data-structure-1/3.-longest-substring-without-repeating-characters.md)
 * [6. ZigZag Conversion](data-structure-1/6.-zigzag-conversion.md)
+* [7. Reverse Integer](data-structure-1/7.-reverse-integer.md)
 * [8. String to Integer \(atoi\)](data-structure-1/8.-string-to-integer-atoi.md)
 * [11. Container With Most Water](data-structure-1/11.-container-with-most-water.md)
 * [15. 3Sum](data-structure-1/15.-3sum.md)
