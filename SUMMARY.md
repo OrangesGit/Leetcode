@@ -60,7 +60,7 @@
 * [26. Remove Duplicates from Sorted Array](data-structure-1/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](data-structure-1/27.-remove-element.md)
 * [28. Implement strStr\(\)](data-structure-1/28.-implement-strstr.md)
-* [31. Next Permutation](data-structure-1/31.-next-permutation.md)
+* [31. Next Permutation\*\*\*](data-structure-1/31.-next-permutation.md)
 * [33. Search in Rotated Sorted Array](data-structure-1/33.-search-in-rotated-sorted-array.md)
 * [34. Find First and Last Position of Element in Sorted Array](data-structure-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](data-structure-1/35.-search-insert-position.md)
