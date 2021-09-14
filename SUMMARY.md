@@ -118,6 +118,7 @@
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
+* [415. Add Strings](data-structure-1/415.-add-strings.md)
 * [454. 4Sum II](data-structure-1/untitled-1.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
 * [705. Design HashSet](data-structure-1/705.-design-hashset.md)
