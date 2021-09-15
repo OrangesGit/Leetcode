@@ -69,6 +69,7 @@
 * [54. Spiral Matrix](data-structure-1/54.-spiral-matrix.md)
 * [59. Spiral Matrix II](data-structure-1/59.-spiral-matrix-ii.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
+* [65. Valid Number](data-structure-1/65.-valid-number.md)
 * [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
 * [76. Minimum Window Substring](data-structure-1/76.-minimum-window-substring.md)
