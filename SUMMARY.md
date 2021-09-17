@@ -104,6 +104,7 @@
 * [162. Find Peak Element](data-structure-1/162.-find-peak-element.md)
 * [165. Compare Version Numbers](data-structure-1/165.-compare-version-numbers.md)
 * [168. Excel Sheet Column Title](data-structure-1/168.-excel-sheet-column-title.md)
+* [171. Excel Sheet Column Number](data-structure-1/171.-excel-sheet-column-number.md)
 * [202. Happy Number](data-structure-1/202.-happy-number.md)
 * [203. Remove Linked List Elements](data-structure-1/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
