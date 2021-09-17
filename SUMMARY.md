@@ -71,6 +71,7 @@
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
 * [65. Valid Number](data-structure-1/65.-valid-number.md)
 * [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
+* [73. Set Matrix Zeroes](data-structure-1/73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
 * [76. Minimum Window Substring](data-structure-1/76.-minimum-window-substring.md)
 * [81. Search in Rotated Sorted Array II](data-structure-1/81.-search-in-rotated-sorted-array-ii.md)
