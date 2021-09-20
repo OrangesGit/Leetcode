@@ -1,4 +1,4 @@
-# Untitled
+# 376. Wiggle Subsequence
 
 ## Greedy
 

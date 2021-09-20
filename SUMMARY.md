@@ -128,7 +128,7 @@
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
 * [345. Reverse Vowels of a String](data-structure-1/345.-reverse-vowels-of-a-string.md)
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
-* [Untitled](data-structure-1/untitled-4.md)
+* [376. Wiggle Subsequence](data-structure-1/untitled-4.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
 * [415. Add Strings](data-structure-1/415.-add-strings.md)
 * [454. 4Sum II](data-structure-1/untitled-1.md)
