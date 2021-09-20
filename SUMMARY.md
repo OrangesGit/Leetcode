@@ -124,6 +124,7 @@
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
+* [345. Reverse Vowels of a String](data-structure-1/345.-reverse-vowels-of-a-string.md)
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
 * [415. Add Strings](data-structure-1/415.-add-strings.md)
