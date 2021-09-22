@@ -139,6 +139,7 @@
 * [706. Design HashMap](data-structure-1/706.-design-hashmap.md)
 * [707. Design Linked List](data-structure-1/707.-design-linked-list.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
+* [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
 
 ---
 
