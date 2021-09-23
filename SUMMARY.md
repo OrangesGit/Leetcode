@@ -134,6 +134,7 @@
 * [376. Wiggle Subsequence](data-structure-1/untitled-4.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
 * [415. Add Strings](data-structure-1/415.-add-strings.md)
+* [406. Queue Reconstruction by Height](data-structure-1/406.-queue-reconstruction-by-height.md)
 * [454. 4Sum II](data-structure-1/untitled-1.md)
 * [455. Assign Cookies](data-structure-1/455.-assign-cookies.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
