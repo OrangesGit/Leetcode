@@ -130,6 +130,7 @@
 * [274. H-Index](data-structure-1/274.-h-index.md)
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [277. Find the Celebrity](data-structure-1/277.-find-the-celebrity.md)
+* [280. Wiggle Sort](data-structure-1/280.-wiggle-sort.md)
 * [326. Power of Three](data-structure-1/326.-power-of-three.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
