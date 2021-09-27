@@ -152,6 +152,7 @@
 * [707. Design Linked List](data-structure-1/707.-design-linked-list.md)
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](data-structure-1/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
 * [738. Monotone Increasing Digits](data-structure-1/738.-monotone-increasing-digits.md)
+* [746. Min Cost Climbing Stairs](data-structure-1/746.-min-cost-climbing-stairs.md)
 * [763. Partition Labels](data-structure-1/763.-partition-labels.md)
 * [860. Lemonade Change](data-structure-1/860.-lemonade-change.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
