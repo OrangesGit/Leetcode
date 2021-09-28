@@ -71,6 +71,7 @@
 * [56. Merge Intervals](data-structure-1/56.-merge-intervals.md)
 * [59. Spiral Matrix II](data-structure-1/59.-spiral-matrix-ii.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
+* [62. Unique Paths](data-structure-1/62.-unique-paths.md)
 * [65. Valid Number](data-structure-1/65.-valid-number.md)
 * [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
 * [70. Climbing Stairs](data-structure-1/70.-climbing-stairs.md)
