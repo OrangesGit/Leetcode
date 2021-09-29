@@ -159,6 +159,7 @@
 * [860. Lemonade Change](data-structure-1/860.-lemonade-change.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 * [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
+* [1137. N-th Tribonacci Number](data-structure-1/1137.-n-th-tribonacci-number.md)
 
 ---
 
