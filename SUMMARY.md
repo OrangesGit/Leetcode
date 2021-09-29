@@ -116,6 +116,7 @@
 * [171. Excel Sheet Column Number](data-structure-1/171.-excel-sheet-column-number.md)
 * [179. Largest Number](data-structure-1/179.-largest-number.md)
 * [190. Reverse Bits](data-structure-1/190.-reverse-bits.md)
+* [198. House Robber](data-structure-1/198.-house-robber.md)
 * [202. Happy Number](data-structure-1/202.-happy-number.md)
 * [203. Remove Linked List Elements](data-structure-1/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List](data-structure-1/206.-reverse-linked-list.md)
