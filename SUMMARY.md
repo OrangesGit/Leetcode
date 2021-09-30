@@ -134,6 +134,7 @@
 * [256. Paint House](data-structure-1/256.-paint-house.md)
 * [257.Binary Tree Paths](data-structure-1/257.binary-tree-paths.md)
 * [263. Ugly Number](data-structure-1/263.-ugly-number.md)
+* [265. Paint House II](data-structure-1/265.-paint-house-ii.md)
 * [274. H-Index](data-structure-1/274.-h-index.md)
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [277. Find the Celebrity](data-structure-1/277.-find-the-celebrity.md)
