@@ -96,6 +96,7 @@
 * [112.Path Sum](data-structure-1/112.path-sum.md)
 * [113. Path Sum II](data-structure-1/113.-path-sum-ii.md)
 * [114. Flatten Binary Tree to Linked List](data-structure-1/114.-flatten-binary-tree-to-linked-list.md)
+* [121. Best Time to Buy and Sell Stock](data-structure-1/121.-best-time-to-buy-and-sell-stock.md)
 * [122. Best Time to Buy and Sell Stock II](data-structure-1/untitled-3.md)
 * [134. Gas Station](data-structure-1/134.-gas-station.md)
 * [135. Candy](data-structure-1/135.-candy.md)
@@ -115,6 +116,7 @@
 * [168. Excel Sheet Column Title](data-structure-1/168.-excel-sheet-column-title.md)
 * [171. Excel Sheet Column Number](data-structure-1/171.-excel-sheet-column-number.md)
 * [179. Largest Number](data-structure-1/179.-largest-number.md)
+* [188. Best Time to Buy and Sell Stock IV](data-structure-1/188.-best-time-to-buy-and-sell-stock-iv.md)
 * [190. Reverse Bits](data-structure-1/190.-reverse-bits.md)
 * [198. House Robber](data-structure-1/198.-house-robber.md)
 * [202. Happy Number](data-structure-1/202.-happy-number.md)
@@ -139,6 +141,7 @@
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [277. Find the Celebrity](data-structure-1/277.-find-the-celebrity.md)
 * [280. Wiggle Sort](data-structure-1/280.-wiggle-sort.md)
+* [309. Best Time to Buy and Sell Stock with Cooldown](data-structure-1/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
 * [326. Power of Three](data-structure-1/326.-power-of-three.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
@@ -152,6 +155,7 @@
 * [452. Minimum Number of Arrows to Burst Balloons](data-structure-1/452.-minimum-number-of-arrows-to-burst-balloons.md)
 * [454. 4Sum II](data-structure-1/untitled-1.md)
 * [455. Assign Cookies](data-structure-1/455.-assign-cookies.md)
+* [487. 最大连续1的个数 II](data-structure-1/487.-zui-da-lian-xu-1-de-ge-shu-ii.md)
 * [509. Fibonacci Number](data-structure-1/509.-fibonacci-number.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
 * [705. Design HashSet](data-structure-1/705.-design-hashset.md)
@@ -165,6 +169,8 @@
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 * [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
 * [1137. N-th Tribonacci Number](data-structure-1/1137.-n-th-tribonacci-number.md)
+* [1230. 抛掷硬币](data-structure-1/1230.-pao-zhi-ying-bi.md)
+* [1746. 经过一次操作后的最大子数组和](data-structure-1/1746.-jing-guo-yi-ci-cao-zuo-hou-de-zui-da-zi-shu-zu-he.md)
 
 ---
 
