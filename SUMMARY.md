@@ -4,6 +4,7 @@
 
 ## Data Structure <a id="linked-list"></a>
 
+* [刷题时间表](linked-list/shua-ti-shi-jian-biao.md)
 * [Linked List](linked-list/linked-list/README.md)
   * [What is Linked List?](linked-list/linked-list/untitled.md)
   * [Singly Linked List](linked-list/linked-list/singly-linked-list.md)
@@ -173,10 +174,6 @@
 * [1143. 最长公共子序列](data-structure-1/1143.-zui-chang-gong-gong-zi-xu-lie.md)
 * [1230. 抛掷硬币](data-structure-1/1230.-pao-zhi-ying-bi.md)
 * [1746. 经过一次操作后的最大子数组和](data-structure-1/1746.-jing-guo-yi-ci-cao-zuo-hou-de-zui-da-zi-shu-zu-he.md)
-
----
-
-* [刷题时间表](shua-ti-shi-jian-biao.md)
 
 ## SQL
 
