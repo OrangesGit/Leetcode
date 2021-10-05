@@ -43,6 +43,7 @@
 * [Stack/Queue专题](data-structure-1/stackqueue-zhuan-ti.md)
 * [2. Add Two Numbers](data-structure-1/2.-add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](data-structure-1/3.-longest-substring-without-repeating-characters.md)
+* [5. 最长回文子串](data-structure-1/5.-zui-chang-hui-wen-zi-chuan.md)
 * [6. ZigZag Conversion](data-structure-1/6.-zigzag-conversion.md)
 * [7. Reverse Integer](data-structure-1/7.-reverse-integer.md)
 * [8. String to Integer \(atoi\)](data-structure-1/8.-string-to-integer-atoi.md)
