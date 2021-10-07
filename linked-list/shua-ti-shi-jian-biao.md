@@ -12,6 +12,11 @@
 | 10/3 |  |
 | \*\*\*\*[5. 最长回文子串](../data-structure-1/5.-zui-chang-hui-wen-zi-chuan.md) |  |
 | [9. 回文数](../data-structure-1/9.-hui-wen-shu.md) |  |
+| 10/5 |  |
+| [77.  组合](../data-structure-1/77.-zu-he.md) |  |
+| 10/6 |  |
+| [216. 组合总和III](../data-structure-1/216.-zu-he-zong-he-iii.md) |  |
+|  |  |
 
 
 
