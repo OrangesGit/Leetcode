@@ -2,13 +2,13 @@
 
 * [Welcome](README.md)
 
-## Data Structure <a id="linked-list"></a>
+## Data Structure <a href="linked-list" id="linked-list"></a>
 
 * [刷题时间表](linked-list/shua-ti-shi-jian-biao.md)
 * [Linked List](linked-list/linked-list/README.md)
   * [What is Linked List?](linked-list/linked-list/untitled.md)
   * [Singly Linked List](linked-list/linked-list/singly-linked-list.md)
-  * [1. isEmpty\(\)](linked-list/linked-list/1.-isempty.md)
+  * [1. isEmpty()](linked-list/linked-list/1.-isempty.md)
   * [2. Insert At Head](linked-list/linked-list/2.-insert-at-head.md)
   * [3.Insert at End](linked-list/linked-list/3.insert-at-end.md)
   * [4. Insert after](linked-list/linked-list/4.-insert-after.md)
@@ -34,7 +34,7 @@
   * [Stack](linked-list/stack-and-queue/stack.md)
   * [Queue & Stack用法](linked-list/stack-and-queue/queue-stack-yong-fa.md)
 
-## Leetcode <a id="data-structure-1"></a>
+## Leetcode <a href="data-structure-1" id="data-structure-1"></a>
 
 * [常见算法的复杂度](data-structure-1/chang-jian-suan-fa-de-fu-za-du.md)
 * [用到递归的题](data-structure-1/yong-dao-di-gui-de-ti.md)
@@ -46,7 +46,7 @@
 * [5. 最长回文子串](data-structure-1/5.-zui-chang-hui-wen-zi-chuan.md)
 * [6. ZigZag Conversion](data-structure-1/6.-zigzag-conversion.md)
 * [7. Reverse Integer](data-structure-1/7.-reverse-integer.md)
-* [8. String to Integer \(atoi\)](data-structure-1/8.-string-to-integer-atoi.md)
+* [8. String to Integer (atoi)](data-structure-1/8.-string-to-integer-atoi.md)
 * [9. 回文数](data-structure-1/9.-hui-wen-shu.md)
 * [11. Container With Most Water](data-structure-1/11.-container-with-most-water.md)
 * [12. Integer to Roman](data-structure-1/12.-integer-to-roman.md)
@@ -63,7 +63,7 @@
 * [25. Reverse Nodes in k-Group \*\*\*](data-structure-1/untitled.md)
 * [26. Remove Duplicates from Sorted Array](data-structure-1/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](data-structure-1/27.-remove-element.md)
-* [28. Implement strStr\(\)](data-structure-1/28.-implement-strstr.md)
+* [28. Implement strStr()](data-structure-1/28.-implement-strstr.md)
 * [31. Next Permutation\*\*\*](data-structure-1/31.-next-permutation.md)
 * [33. Search in Rotated Sorted Array](data-structure-1/33.-search-in-rotated-sorted-array.md)
 * [34. Find First and Last Position of Element in Sorted Array](data-structure-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
@@ -81,8 +81,9 @@
 * [62. Unique Paths](data-structure-1/62.-unique-paths.md)
 * [63. Unique Paths II](data-structure-1/63.-unique-paths-ii.md)
 * [65. Valid Number](data-structure-1/65.-valid-number.md)
-* [69. Sqrt\(x\)](data-structure-1/69.-sqrt-x.md)
+* [69. Sqrt(x)](data-structure-1/69.-sqrt-x.md)
 * [70. Climbing Stairs](data-structure-1/70.-climbing-stairs.md)
+* [72. 编辑距离](data-structure-1/72.-bian-ji-ju-li.md)
 * [73. Set Matrix Zeroes](data-structure-1/73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
 * [76. Minimum Window Substring](data-structure-1/76.-minimum-window-substring.md)
@@ -215,4 +216,3 @@
 
 * [剑指 Offer 05. 替换空格 LCOF](jian-zhi-offer/untitled.md)
 * [剑指 Offer 58 - II. 左旋转字符串](jian-zhi-offer/jian-zhi-offer-58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
-
