@@ -49,10 +49,9 @@ class Solution {
 
 1. Create a function used to reverse the linked list
 2. Treverse the whole linked list, find the k nodes. At this time, **head** = head of k nodes, **ptr** = next node of k nodes
-3. After reverse k nodes, update the **new\_head,** **ktail.next**, **ktail and head**
-4. At last, make **ktail.next = head** to link the rest nodes
+3. After reverse k nodes, update the **new_head,** **ktail.next**, **ktail and head**
+4. At last, make **ktail.next = head **to link the rest nodes
 
 $$
 O(N)+O(1)
 $$
-
