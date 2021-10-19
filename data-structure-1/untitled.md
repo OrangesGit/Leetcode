@@ -12,35 +12,36 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head, int k){
-        ListNode ptr = head, new_head = null;
+    public ListNode reverseKGroup(ListNode head, int k) {
+        ListNode new_head = new ListNode(0, head);
+        ListNode curr = new_head, prev = new_head;
+        while(curr != null){
+            int count = 0;
+            ListNode rev_tail = curr.next;
+            while(count < k && curr != null){
+                count++;
+                curr = curr.next;
+            }
+            if(curr == null) break;
+            ListNode next_node = curr.next;
+            ListNode rev_head = reverse(rev_tail,k);
+            prev.next = rev_head;
+            rev_tail.next = next_node;
+            prev = rev_tail;
+            curr = rev_tail;
+        }
+        return new_head.next;
+    }
+    public ListNode reverse(ListNode curr, int k){
+        ListNode rev_head = null;
         while(k > 0){
-            ListNode next_node = ptr.next;
-            ptr.next = new_head;
-            new_head = ptr;
-            ptr = next_node;
+            ListNode next_node = curr.next;
+            curr.next = rev_head;
+            rev_head = curr;
+            curr = next_node;
             k--;
         }
-        return new_head;
-    }
-    public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode new_head = null, ktail = null, ptr = head;
-        while(ptr != null){
-            int count = 0;
-            while(count < k && ptr != null){
-                count++;
-                ptr = ptr.next;
-            }
-            if(count == k){
-                ListNode rev_head = this.reverseList(head,k);
-                if(new_head == null) new_head = rev_head;
-                if(ktail != null) ktail.next = rev_head;
-                ktail = head;
-                head = ptr;
-            }
-        }
-        if(ktail != null) ktail.next = head;
-        return new_head != null ? new_head : head;
+        return rev_head;
     }
 }
 ```
@@ -49,7 +50,7 @@ class Solution {
 
 1. Create a function used to reverse the linked list
 2. Treverse the whole linked list, find the k nodes. At this time, **head** = head of k nodes, **ptr** = next node of k nodes
-3. After reverse k nodes, update the **new_head,** **ktail.next**, **ktail and head**
+3. After reverse k nodes, update the **new\_head,** **ktail.next**, **ktail and head**
 4. At last, make **ktail.next = head **to link the rest nodes
 
 $$
