@@ -84,6 +84,7 @@
 * [65. Valid Number](data-structure-1/65.-valid-number.md)
 * [69. Sqrt(x)](data-structure-1/69.-sqrt-x.md)
 * [70. Climbing Stairs](data-structure-1/70.-climbing-stairs.md)
+* [71. 简化路径](data-structure-1/71.-jian-hua-lu-jing.md)
 * [72. 编辑距离](data-structure-1/72.-bian-ji-ju-li.md)
 * [73. Set Matrix Zeroes](data-structure-1/73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
