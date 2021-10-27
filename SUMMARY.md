@@ -74,6 +74,7 @@
 * [40. 组合总和II](data-structure-1/40.-zu-he-zong-he-ii.md)
 * [43. Multiply Strings](data-structure-1/43.-multiply-strings.md)
 * [45. Jump Game II](data-structure-1/untitled-5.md)
+* [48. 旋转图像](data-structure-1/48.-xuan-zhuan-tu-xiang.md)
 * [53. Maximum Subarray](data-structure-1/53.-maximum-subarray.md)
 * [54. Spiral Matrix](data-structure-1/54.-spiral-matrix.md)
 * [56. Merge Intervals](data-structure-1/56.-merge-intervals.md)
