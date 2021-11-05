@@ -155,6 +155,7 @@
 * [275. H-Index II](data-structure-1/275.-h-index-ii.md)
 * [277. Find the Celebrity](data-structure-1/277.-find-the-celebrity.md)
 * [280. Wiggle Sort](data-structure-1/280.-wiggle-sort.md)
+* [Page 1](data-structure-1/page-1.md)
 * [309. Best Time to Buy and Sell Stock with Cooldown](data-structure-1/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
 * [326. Power of Three](data-structure-1/326.-power-of-three.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
