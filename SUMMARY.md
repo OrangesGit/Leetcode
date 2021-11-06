@@ -164,6 +164,7 @@
 * [346. Moving Average from Data Stream](data-structure-1/346.-moving-average-from-data-stream.md)
 * [376. Wiggle Subsequence](data-structure-1/untitled-4.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
+* [394. 字符串解码](data-structure-1/394.-zi-fu-chuan-jie-ma.md)
 * [415. Add Strings](data-structure-1/415.-add-strings.md)
 * [406. Queue Reconstruction by Height](data-structure-1/406.-queue-reconstruction-by-height.md)
 * [435. Non-overlapping Intervals](data-structure-1/435.-non-overlapping-intervals.md)
@@ -207,8 +208,10 @@
 * [283. Move Zeroes](sql/283.-move-zeroes.md)
 * [511. Game Play Analysis I](sql/511.-game-play-analysis-i.md)
 * [512. Game Play Analysis II](sql/512.-game-play-analysis-ii.md)
+* [739. 每日温度](sql/739.-mei-ri-wen-du.md)
 * [844. Backspace String Compare](sql/844.-backspace-string-compare.md)
 * [977. Squares of a Sorted Array](sql/977.-squares-of-a-sorted-array.md)
+* [1190. 反转每对括号间的子串](sql/1190.-fan-zhuan-mei-dui-kuo-hao-jian-de-zi-chuan.md)
 * [1661. Average Time of Process per Machine](sql/1661.-average-time-of-process-per-machine.md)
 * [1777. Product's Price for Each Store](sql/1777.-products-price-for-each-store.md)
 
