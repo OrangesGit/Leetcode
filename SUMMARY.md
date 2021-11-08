@@ -79,6 +79,7 @@
 * [48. 旋转图像](data-structure-1/48.-xuan-zhuan-tu-xiang.md)
 * [53. Maximum Subarray](data-structure-1/53.-maximum-subarray.md)
 * [54. Spiral Matrix](data-structure-1/54.-spiral-matrix.md)
+* [55. 跳跃游戏](data-structure-1/55.-tiao-yue-you-xi.md)
 * [56. Merge Intervals](data-structure-1/56.-merge-intervals.md)
 * [59. Spiral Matrix II](data-structure-1/59.-spiral-matrix-ii.md)
 * [61. Rotate List](data-structure-1/61.-rotate-list.md)
