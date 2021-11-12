@@ -76,6 +76,7 @@
 * [42. 接雨水](data-structure-1/42.-jie-yu-shui.md)
 * [43. Multiply Strings](data-structure-1/43.-multiply-strings.md)
 * [45. Jump Game II](data-structure-1/untitled-5.md)
+* [46. 全排列](data-structure-1/46.-quan-pai-lie.md)
 * [48. 旋转图像](data-structure-1/48.-xuan-zhuan-tu-xiang.md)
 * [53. Maximum Subarray](data-structure-1/53.-maximum-subarray.md)
 * [54. Spiral Matrix](data-structure-1/54.-spiral-matrix.md)
