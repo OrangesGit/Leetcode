@@ -71,6 +71,7 @@
 * [33. Search in Rotated Sorted Array](data-structure-1/33.-search-in-rotated-sorted-array.md)
 * [34. Find First and Last Position of Element in Sorted Array](data-structure-1/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](data-structure-1/35.-search-insert-position.md)
+* [36. 有效的数独](data-structure-1/36.-you-xiao-de-shu-du.md)
 * [38. Count and Say](data-structure-1/38.-count-and-say.md)
 * [39. 组合总和](data-structure-1/39.-zu-he-zong-he.md)
 * [40. 组合总和II](data-structure-1/40.-zu-he-zong-he-ii.md)
