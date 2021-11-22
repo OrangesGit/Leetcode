@@ -35,7 +35,6 @@
   * [Queue & Stack用法](linked-list/stack-and-queue/queue-stack-yong-fa.md)
 * [快速排序(Quick Sort)](linked-list/kuai-su-pai-xu-quick-sort.md)
 * [堆排序(Heap Sort)](linked-list/dui-pai-xu-heap-sort.md)
-* [Heap Sort](linked-list/heap-sort.md)
 
 ## Leetcode <a href="data-structure-1" id="data-structure-1"></a>
 
