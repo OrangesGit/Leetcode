@@ -199,6 +199,7 @@
 * [781. 森林中的兔子](data-structure-1/781.-sen-lin-zhong-de-tu-zi.md)
 * [797. 所有可能的路径](data-structure-1/797.-suo-you-ke-neng-de-lu-jing.md)
 * [820. 单词的压缩编码](data-structure-1/820.-dan-ci-de-ya-suo-bian-ma.md)
+* [859. 亲密字符串](data-structure-1/859.-qin-mi-zi-fu-chuan.md)
 * [860. Lemonade Change](data-structure-1/860.-lemonade-change.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 * [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
