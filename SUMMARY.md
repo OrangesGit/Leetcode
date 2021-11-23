@@ -188,6 +188,7 @@
 * [487. 最大连续1的个数 II](data-structure-1/487.-zui-da-lian-xu-1-de-ge-shu-ii.md)
 * [509. Fibonacci Number](data-structure-1/509.-fibonacci-number.md)
 * [554. 砖墙](data-structure-1/554.-zhuan-qiang.md)
+* [547. 省份数量](data-structure-1/547.-sheng-fen-shu-liang.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
 * [705. Design HashSet](data-structure-1/705.-design-hashset.md)
 * [706. Design HashMap](data-structure-1/706.-design-hashmap.md)
