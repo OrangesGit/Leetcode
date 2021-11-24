@@ -178,7 +178,7 @@
 * [376. Wiggle Subsequence](data-structure-1/untitled-4.md)
 * [383. Ransom Note](data-structure-1/383.-ransom-note.md)
 * [394. 字符串解码](data-structure-1/394.-zi-fu-chuan-jie-ma.md)
-* [403. 移掉K位数字 #Red](data-structure-1/403.-yi-diaokwei-shu-zi-red.md)
+* [402. 移掉K位数字 #Red](data-structure-1/402.-yi-diaokwei-shu-zi-red.md)
 * [415. Add Strings](data-structure-1/415.-add-strings.md)
 * [406. Queue Reconstruction by Height](data-structure-1/406.-queue-reconstruction-by-height.md)
 * [435. Non-overlapping Intervals](data-structure-1/435.-non-overlapping-intervals.md)
