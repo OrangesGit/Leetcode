@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## Data Structure <a href="linked-list" id="linked-list"></a>
+## Data Structure <a href="#linked-list" id="linked-list"></a>
 
 * [刷题时间表](linked-list/shua-ti-shi-jian-biao.md)
 * [Linked List](linked-list/linked-list/README.md)
@@ -36,7 +36,7 @@
 * [快速排序(Quick Sort)](linked-list/kuai-su-pai-xu-quick-sort.md)
 * [堆排序(Heap Sort)](linked-list/dui-pai-xu-heap-sort.md)
 
-## Leetcode <a href="data-structure-1" id="data-structure-1"></a>
+## Leetcode <a href="#data-structure-1" id="data-structure-1"></a>
 
 * [常见算法的复杂度](data-structure-1/chang-jian-suan-fa-de-fu-za-du.md)
 * [用到递归的题](data-structure-1/yong-dao-di-gui-de-ti.md)
@@ -205,6 +205,7 @@
 * [859. 亲密字符串](data-structure-1/859.-qin-mi-zi-fu-chuan.md)
 * [860. Lemonade Change](data-structure-1/860.-lemonade-change.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
+* [997. 找到小镇的法官](data-structure-1/997.-zhao-dao-xiao-zhen-de-fa-guan.md)
 * [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
 * [1035. 不想交的线](data-structure-1/1035.-bu-xiang-jiao-de-xian.md)
 * [1047. 删除字符串中的所有相邻重复项 #Red](data-structure-1/1047.-shan-chu-zi-fu-chuan-zhong-de-suo-you-xiang-lin-zhong-fu-xiang-red.md)
