@@ -4,7 +4,6 @@
 
 ## Data Structure <a href="#linked-list" id="linked-list"></a>
 
-* [刷题时间表](linked-list/shua-ti-shi-jian-biao.md)
 * [Linked List](linked-list/linked-list/README.md)
   * [What is Linked List?](linked-list/linked-list/untitled.md)
   * [Singly Linked List](linked-list/linked-list/singly-linked-list.md)
@@ -36,7 +35,6 @@
 * [快速排序(Quick Sort)](linked-list/kuai-su-pai-xu-quick-sort.md)
 * [堆排序(Heap Sort)](linked-list/dui-pai-xu-heap-sort.md)
 * [并查集(Disjoint Set)](linked-list/bing-cha-ji-disjoint-set.md)
-* [题库分类](linked-list/ti-ku-fen-lei.md)
 
 ## Leetcode <a href="#data-structure-1" id="data-structure-1"></a>
 
