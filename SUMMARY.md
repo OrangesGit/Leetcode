@@ -202,6 +202,7 @@
 * [746. Min Cost Climbing Stairs](data-structure-1/746.-min-cost-climbing-stairs.md)
 * [763. Partition Labels](data-structure-1/763.-partition-labels.md)
 * [781. 森林中的兔子 #Red](data-structure-1/781.-sen-lin-zhong-de-tu-zi-red.md)
+* [787. K站中转内最便宜的航班](data-structure-1/787.kzhan-zhong-zhuan-nei-zui-bian-yi-de-hang-ban.md)
 * [797. 所有可能的路径 #Red](data-structure-1/797.-suo-you-ke-neng-de-lu-jing-red.md)
 * [820. 单词的压缩编码](data-structure-1/820.-dan-ci-de-ya-suo-bian-ma.md)
 * [859. 亲密字符串](data-structure-1/859.-qin-mi-zi-fu-chuan.md)
