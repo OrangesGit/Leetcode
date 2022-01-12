@@ -98,6 +98,7 @@
 * [72. 编辑距离](data-structure-1/72.-bian-ji-ju-li.md)
 * [73. Set Matrix Zeroes](data-structure-1/73.-set-matrix-zeroes.md)
 * [74. Search a 2D Matrix](data-structure-1/74.-search-a-2d-matrix.md)
+* [75. 颜色分类](data-structure-1/75.-yan-se-fen-lei.md)
 * [76. Minimum Window Substring](data-structure-1/76.-minimum-window-substring.md)
 * [77. 组合](data-structure-1/77.-zu-he.md)
 * [78. 子集](data-structure-1/78.-zi-ji.md)
