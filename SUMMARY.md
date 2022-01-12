@@ -199,6 +199,7 @@
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](data-structure-1/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
 * [738. Monotone Increasing Digits](data-structure-1/738.-monotone-increasing-digits.md)
 * [739. 每日温度 #Yellow](data-structure-1/739.-mei-ri-wen-du-yellow.md)
+* [743. 网络延迟时间](data-structure-1/743.-wang-luo-yan-chi-shi-jian.md)
 * [746. Min Cost Climbing Stairs](data-structure-1/746.-min-cost-climbing-stairs.md)
 * [763. Partition Labels](data-structure-1/763.-partition-labels.md)
 * [781. 森林中的兔子 #Red](data-structure-1/781.-sen-lin-zhong-de-tu-zi-red.md)
