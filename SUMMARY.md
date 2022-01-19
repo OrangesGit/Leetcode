@@ -210,6 +210,7 @@
 * [820. 单词的压缩编码](data-structure-1/820.-dan-ci-de-ya-suo-bian-ma.md)
 * [859. 亲密字符串](data-structure-1/859.-qin-mi-zi-fu-chuan.md)
 * [860. Lemonade Change](data-structure-1/860.-lemonade-change.md)
+* [847. 访问所有节点的最短路径](data-structure-1/847.-fang-wen-suo-you-jie-dian-de-zui-duan-lu-jing.md)
 * [904. Fruit Into Baskets](data-structure-1/904.-fruit-into-baskets.md)
 * [997. 找到小镇的法官](data-structure-1/997.-zhao-dao-xiao-zhen-de-fa-guan.md)
 * [1005. Maximize Sum Of Array After K Negations](data-structure-1/1005.-maximize-sum-of-array-after-k-negations.md)
