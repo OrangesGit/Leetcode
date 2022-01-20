@@ -196,6 +196,7 @@
 * [554. 砖墙](data-structure-1/554.-zhuan-qiang.md)
 * [547. 省份数量](data-structure-1/547.-sheng-fen-shu-liang.md)
 * [622.Design Circular Queue](data-structure-1/untitled-2.md)
+* [695. 岛屿的最大面积](data-structure-1/695.-dao-yu-de-zui-da-mian-ji.md)
 * [705. Design HashSet](data-structure-1/705.-design-hashset.md)
 * [706. Design HashMap](data-structure-1/706.-design-hashmap.md)
 * [707. Design Linked List](data-structure-1/707.-design-linked-list.md)
