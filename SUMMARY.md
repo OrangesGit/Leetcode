@@ -174,6 +174,7 @@
 * [300. 最长递增子序列](data-structure-1/300.-zui-chang-di-zeng-zi-xu-lie.md)
 * [309. Best Time to Buy and Sell Stock with Cooldown](data-structure-1/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
 * [310. 最小高度树](data-structure-1/310.-zui-xiao-gao-du-shu.md)
+* [323. 无向图中连通分量的数目](data-structure-1/323.-wu-xiang-tu-zhong-lian-tong-fen-liang-de-shu-mu.md)
 * [326. Power of Three](data-structure-1/326.-power-of-three.md)
 * [328. Odd Even Linked List](data-structure-1/328.-odd-even-linked-list.md)
 * [344. Reverse String](data-structure-1/344.-reverse-string.md)
