@@ -17,6 +17,8 @@
 
 同时需要一个数据类型记录他们的关系
 
+## HashMap实现
+
 可以选HashMap，通过get方法找到父亲是谁
 
 ```java
@@ -82,4 +84,40 @@ public class Main{
 
     }
 }
+```
+
+## int\[] 实现
+
+```java
+package com.company;
+
+import java.util.HashMap;
+
+public class DJS {
+    private int[] parent;
+    public DJS(int dummy){
+        parent = new int[dummy+1];
+        for(int i=0; i<=dummy; i++){
+            parent[i] = i;
+        }
+    }
+    public int FIND(int currNode){
+        while (currNode != parent[currNode]) {
+            parent[currNode] = parent[parent[currNode]];
+            currNode = parent[currNode];
+        }
+        return currNode;
+    }
+    public void UNION(int a, int b){
+        int x = FIND(a);
+        int y = FIND(b);
+        if(x != y) parent[x] = y;
+    }
+    public void printSets(int dummy){
+        for(int i=0; i<=dummy; i++){
+            System.out.println(i + "-" +parent[i]);
+        }
+    }
+}
+
 ```
