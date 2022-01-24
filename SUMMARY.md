@@ -228,6 +228,7 @@
 * [1137. N-th Tribonacci Number](data-structure-1/1137.-n-th-tribonacci-number.md)
 * [1143. 最长公共子序列](data-structure-1/1143.-zui-chang-gong-gong-zi-xu-lie.md)
 * [1230. 抛掷硬币](data-structure-1/1230.-pao-zhi-ying-bi.md)
+* [1541. 平衡括号字符串的最小插入次数](data-structure-1/1541.-ping-heng-kuo-hao-zi-fu-chuan-de-zui-xiao-cha-ru-ci-shu.md)
 * [1746. 经过一次操作后的最大子数组和](data-structure-1/1746.-jing-guo-yi-ci-cao-zuo-hou-de-zui-da-zi-shu-zu-he.md)
 * [LCP 07. 传递信息](data-structure-1/lcp-07.-chuan-di-xin-xi.md)
 
