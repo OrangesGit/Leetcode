@@ -155,7 +155,7 @@
 * [213. House Robber II](data-structure-1/213.-house-robber-ii.md)
 * [216. 组合总和III](data-structure-1/216.-zu-he-zong-he-iii.md)
 * [221. 最大正方形](data-structure-1/221.-zui-da-zheng-fang-xing.md)
-* [226.Invert Binary Tree](data-structure-1/226.invert-binary-tree.md)
+* [226. 反转二叉树（Invert Binary Tree）](data-structure-1/226.invert-binary-tree.md)
 * [232.Implement Queue using Stacks](data-structure-1/232.implement-queue-using-stacks.md)
 * [233. Number of Digit One](data-structure-1/233.-number-of-digit-one.md)
 * [234. Palindrome Linked List](data-structure-1/234.-palindrome-linked-list.md)
