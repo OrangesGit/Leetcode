@@ -114,7 +114,7 @@
 * [98. Validate Binary Search Tree](data-structure-1/98.-validate-binary-search-tree.md)
 * [99.Recover Binary Search Tree](data-structure-1/99.recover-binary-search-tree.md)
 * [100.Same Tree](data-structure-1/100.same-tree.md)
-* [101.Symmetric](data-structure-1/101.symmetric.md)
+* [101.对称二叉树（Symmetric）](data-structure-1/101.symmetric.md)
 * [103. 二叉树的锯齿形层序遍历](data-structure-1/103.-er-cha-shu-de-ju-chi-xing-ceng-xu-bian-li.md)
 * [104.Maximum Depth of Binary Tree](data-structure-1/104.maximum-depth-of-binary-tree.md)
 * [110.Balanced Binary Tree](data-structure-1/110.balanced-binary-tree.md)
