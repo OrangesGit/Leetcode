@@ -23,3 +23,8 @@ class Solution {
     }
 }
 ```
+
+$$
+O(N)+O(N)
+$$
+
