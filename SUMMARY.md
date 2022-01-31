@@ -117,6 +117,7 @@
 * [101.对称二叉树（Symmetric）](data-structure-1/101.symmetric.md)
 * [103. 二叉树的锯齿形层序遍历](data-structure-1/103.-er-cha-shu-de-ju-chi-xing-ceng-xu-bian-li.md)
 * [104.Maximum Depth of Binary Tree](data-structure-1/104.maximum-depth-of-binary-tree.md)
+* [105. 从前序与中序遍历序列构造二叉树](data-structure-1/105.-cong-qian-xu-yu-zhong-xu-bian-li-xu-lie-gou-zao-er-cha-shu.md)
 * [110.Balanced Binary Tree](data-structure-1/110.balanced-binary-tree.md)
 * [111.Minimum Depth of Binary Tree](data-structure-1/111.minimum-depth-of-binary-tree.md)
 * [112.Path Sum](data-structure-1/112.path-sum.md)
