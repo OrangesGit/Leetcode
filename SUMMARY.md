@@ -281,3 +281,4 @@
 * [多个线程循环打印ABC](duo-xian-cheng-li-zi/duo-ge-xian-cheng-xun-huan-da-yin-abc.md)
 * [多个线程按顺序打印数字](duo-xian-cheng-li-zi/duo-ge-xian-cheng-an-shun-xu-da-yin-shu-zi.md)
 * [volatile关键字](duo-xian-cheng-li-zi/volatile-guan-jian-zi.md)
+* [CAS例子](duo-xian-cheng-li-zi/cas-li-zi.md)
