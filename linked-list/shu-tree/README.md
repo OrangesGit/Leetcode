@@ -16,14 +16,4 @@
 
 **Height of a Tree**: Height of its root node
 
-<img src="../../.gitbook/assets/Screenshot__2023_03_21_53_000010@2x.png" alt="" data-size="original">
-
-{% content-ref url="er-cha-shu.md" %}
-[er-cha-shu.md](er-cha-shu.md)
-{% endcontent-ref %}
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+<img src="../../.gitbook/assets/Screenshot__2023_03_21_53_000010@2x.png" alt="" data-size="original">![Screenshot__2023_03_22_24_000012](/Users/orange/Gitbook/Leetcode/.gitbook/assets/Screenshot__2023_03_22_24_000012.png)
