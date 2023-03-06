@@ -32,6 +32,7 @@
   * [Queue](linked-list/stack-and-queue/queue-1.md)
   * [Stack](linked-list/stack-and-queue/stack.md)
   * [Queue & Stack用法](linked-list/stack-and-queue/queue-stack-yong-fa.md)
+* [树(Tree)](linked-list/shu-tree.md)
 * [快速排序(Quick Sort)](linked-list/kuai-su-pai-xu-quick-sort.md)
 * [堆排序(Heap Sort)](linked-list/dui-pai-xu-heap-sort.md)
 * [并查集(Disjoint Set)](linked-list/bing-cha-ji-disjoint-set.md)
